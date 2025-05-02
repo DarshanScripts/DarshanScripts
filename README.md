@@ -1,5 +1,7 @@
 # 👨‍💻 Darshan Shah - Full Stack Developer
 
+---
+
 ## 📌 About Me
 
 Hello! I’m **Darshan Shah**, a backend-focused full-stack developer with a strong foundation in **web development**, **database architecture**, and **intelligent systems**. I'm currently pursuing my **M.Sc. in Digital Technologies** at **Ostfalia University, Germany**, and have won multiple national hackathons for creative and practical software solutions. My core drive lies in building scalable, user-centric applications that are smart, secure, and maintainable.
@@ -45,8 +47,6 @@ Hello! I’m **Darshan Shah**, a backend-focused full-stack developer with a str
 
 ---
 
----
-
 ## 🚀 Projects
 
 ### 🔹 [AlphaChat](https://github.com/DarshanScripts/AlphaChat)
@@ -73,32 +73,24 @@ Modular systems with login/authentication, admin dashboard, file uploads, dynami
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/darshan-shah-tech/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:darshanshah4499@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/DarshanScripts" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/darshanscripts" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="https://www.quora.com/profile/Darshan-Shah-1056" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@DarshanScripts" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/DarshanScripts" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/30410934/darshan-shah" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/darshan-shah-tech/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:darshanshah4499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/DarshanScripts" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/darshanscripts" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="https://www.quora.com/profile/Darshan-Shah-1056" target="_blank"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" /></a>
+  <a href="https://medium.com/@DarshanScripts" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.facebook.com/DarshanScripts" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/30410934/darshan-shah" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 </p>
 
-Feel free to explore my repositories or reach out for collaboration or freelance opportunities! 🚀
+---
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshanScripts&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="DarshanScripts's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanScripts&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/
+</p>
+
+---
+
+Explore my work and don’t hesitate to connect if you’re looking for a reliable developer for freelance or team projects.
