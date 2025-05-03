@@ -1,6 +1,5 @@
 # 👨‍💻 Darshan Shah - Full Stack Developer
 
----
 
 ## 📌 About Me
 
