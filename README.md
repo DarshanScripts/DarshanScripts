@@ -3,7 +3,7 @@
 
 ## 📌 About Me
 
-Hello! I’m **Darshan Shah**, a backend-focused full-stack developer with a strong foundation in **web development**, **database architecture**, and **intelligent systems**. I'm currently pursuing my **M.Sc. in Digital Technologies** at **Ostfalia University, Germany**, and have won multiple national hackathons for creative and practical software solutions. My core drive lies in building scalable, user-centric applications that are smart, secure, and maintainable.
+Hello! I'm **Darshan Shah**, a backend-focused full-stack developer with a strong foundation in **web development**, **database architecture**, and **intelligent systems**. I'm currently pursuing my **M.Sc. in Digital Technologies** at **Ostfalia University, Germany**, and have won multiple national hackathons for creative and practical software solutions. My core drive lies in building scalable, user-centric applications that are smart, secure, and maintainable.
 
 ---
 
@@ -85,11 +85,13 @@ Modular systems with login/authentication, admin dashboard, file uploads, dynami
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshanScripts&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="DarshanScripts's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanScripts&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarshanScripts&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&cache_seconds=1800" alt="DarshanScripts's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanScripts&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
 </p>
 
 ---
 
-Explore my work and don’t hesitate to connect if you’re looking for a reliable developer for freelance or team projects.
+Explore my work and don't hesitate to connect if you're looking for a reliable developer for freelance or team projects.
