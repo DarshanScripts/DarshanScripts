@@ -43,6 +43,10 @@ Computer Applications graduate currently pursuing an MSc in Digital Technologies
 
 ## 🚀 Projects
 
+### 🔹 [PeCal Pulse](https://github.com/DarshanScripts/pecal-pulse)
+
+AI sales assistant that turns calibration history into customer priorities, forecasts, and follow-ups, with a voice agent that can operate the interface. First place at Hack The Lab by Perschmann Calibration.
+
 ### 🔹 [Stratego LLM Agent](https://github.com/DarshanScripts/stratego)
 
 LLM benchmarking framework evaluating strategic reasoning, token efficiency, and gameplay behavior across Mistral, Gemma, Llama, and Qwen.
