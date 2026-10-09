@@ -10,124 +10,34 @@ Computer Applications graduate currently pursuing an MSc in Digital Technologies
 ## 💻 Tech Stack
 
 **Programming Languages**
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="48" /></a><br />Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="48" /></a><br />PHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" /></a><br />Java
-    </td>
-    <td align="center" width="96">
-      <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="48" /></a><br />C++
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" /></a><br />TypeScript
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="48" /></a> Python&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="48" /></a> PHP&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" /></a> Java&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="48" /></a> C++&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" /></a> TypeScript
+</p>
 
 **Backend & Databases**
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" /></a><br />Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" /></a><br />MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" /></a><br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" width="48" /></a><br />SQLite
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" /></a><br />MongoDB
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" /></a> Node.js&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" /></a> MySQL&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" /></a> PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" width="48" /></a> SQLite&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" /></a> MongoDB
+</p>
 
 **Cloud & DevOps**
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" /></a><br />AWS
-    </td>
-    <td align="center" width="96">
-      <a href="https://cloud.google.com/" title="GCP"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="48" /></a><br />GCP
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" /></a><br />Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" /></a><br />GitHub Actions
-    </td>
-    <td align="center" width="96">
-      <img src="assets/tiles/cicd.svg" title="CI/CD" alt="CI/CD" width="48" /><br />CI/CD
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" /></a> AWS&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cloud.google.com/" title="GCP"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="48" /></a> GCP&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" /></a> Docker&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" /></a> GitHub Actions&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tiles/cicd.svg" title="CI/CD" alt="CI/CD" width="48" /> CI/CD
+</p>
 
 **Web Development**
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" width="48" /></a><br />HTML
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" width="48" /></a><br />CSS
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" /></a><br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" width="48" /></a><br />Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="assets/tiles/rest.svg" title="REST APIs" alt="REST APIs" width="48" /><br />REST APIs
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" width="48" /></a> HTML&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" width="48" /></a> CSS&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" /></a> JavaScript&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" width="48" /></a> Bootstrap&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tiles/rest.svg" title="REST APIs" alt="REST APIs" width="48" /> REST APIs
+</p>
 
 **AI/ML Technologies**
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org/" title="ML"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="ML" alt="ML" width="48" /></a><br />ML
-    </td>
-    <td align="center" width="96">
-      <a href="https://pytorch.org/" title="Deep Learning"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="Deep Learning" alt="Deep Learning" width="48" /></a><br />Deep Learning
-    </td>
-    <td align="center" width="96">
-      <img src="assets/tiles/agentic.svg" title="Agentic AI" alt="Agentic AI" width="48" /><br />Agentic AI
-    </td>
-    <td align="center" width="96">
-      <img src="assets/tiles/automation.svg" title="AI Automation" alt="AI Automation" width="48" /><br />AI Automation
-    </td>
-    <td align="center" width="96">
-      <img src="assets/tiles/genai.svg" title="GenAI" alt="GenAI" width="48" /><br />GenAI
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://www.tensorflow.org/" title="ML"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="ML" alt="ML" width="48" /></a> ML&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/" title="Deep Learning"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="Deep Learning" alt="Deep Learning" width="48" /></a> Deep Learning&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tiles/agentic.svg" title="Agentic AI" alt="Agentic AI" width="48" /> Agentic AI&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tiles/automation.svg" title="AI Automation" alt="AI Automation" width="48" /> AI Automation&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/tiles/genai.svg" title="GenAI" alt="GenAI" width="48" /> GenAI
+</p>
 
 **Tools**
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" /></a><br />Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="48" /></a><br />Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.microsoft.com/microsoft-365" title="Microsoft 365"><img src="assets/tiles/m365.svg" title="Microsoft 365" alt="Microsoft 365" width="48" /></a><br />Microsoft 365
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" /></a> Git&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="48" /></a> Postman&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.microsoft.com/microsoft-365" title="Microsoft 365"><img src="assets/tiles/m365.svg" title="Microsoft 365" alt="Microsoft 365" width="48" /></a> Microsoft 365
+</p>
 
 ---
 
