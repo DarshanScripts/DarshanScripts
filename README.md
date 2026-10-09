@@ -33,7 +33,7 @@ Computer Applications graduate currently pursuing an MSc in Digital Technologies
   <a href="https://cloud.google.com/" title="GCP"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="48" /></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" /></a>
   <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" /></a>
-  <code>CI/CD</code>
+  <img src="assets/tiles/cicd.svg" title="CI/CD" alt="CI/CD" width="48" />
 </p>
 
 **Web Development**
@@ -42,21 +42,21 @@ Computer Applications graduate currently pursuing an MSc in Digital Technologies
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" width="48" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" /></a>
   <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" width="48" /></a>
-  <code>REST APIs</code>
+  <img src="assets/tiles/rest.svg" title="REST APIs" alt="REST APIs" width="48" />
 </p>
 
 **AI/ML Technologies**
 <p>
   <a href="https://www.tensorflow.org/" title="ML"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="ML" alt="ML" width="48" /></a>
   <a href="https://pytorch.org/" title="Deep Learning"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="Deep Learning" alt="Deep Learning" width="48" /></a>
-  <code>Agentic AI</code> <code>AI Automation</code> <code>GenAI</code>
+  <img src="assets/tiles/agentic.svg" title="Agentic AI" alt="Agentic AI" width="48" /> <img src="assets/tiles/automation.svg" title="AI Automation" alt="AI Automation" width="48" /> <img src="assets/tiles/genai.svg" title="GenAI" alt="GenAI" width="48" />
 </p>
 
 **Tools**
 <p>
   <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" /></a>
   <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="48" /></a>
-  <code>Microsoft 365</code>
+  <img src="assets/tiles/m365.svg" title="Microsoft 365" alt="Microsoft 365" width="48" />
 </p>
 
 ---
