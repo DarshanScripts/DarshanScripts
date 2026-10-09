@@ -11,52 +11,52 @@ Computer Applications graduate currently pursuing an MSc in Digital Technologies
 
 **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="48" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="48" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="48" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" />
 </p>
 
 **Backend & Databases**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" />
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" width="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" />
 </p>
 
 **Cloud & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="48" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" />
+  <code>CI/CD</code>
 </p>
 
 **Web Development**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" width="48" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" width="48" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" width="48" />
+  <code>REST APIs</code>
 </p>
 
 **AI/ML Technologies**
 <p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Automation-00BCD4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="ML" alt="ML" width="48" />
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="Deep Learning" alt="Deep Learning" width="48" />
+  <code>Agentic AI</code> <code>AI Automation</code> <code>GenAI</code>
 </p>
 
 **Tools**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="48" />
+  <code>Microsoft 365</code>
 </p>
 
 ---
