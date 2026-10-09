@@ -11,51 +11,51 @@ Computer Applications graduate currently pursuing an MSc in Digital Technologies
 
 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="48" />
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="48" />
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="48" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" />
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="48" /></a>
+  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" alt="PHP" width="48" /></a>
+  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" /></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" width="48" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" /></a>
 </p>
 
 **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" />
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" width="48" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" />
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" /></a>
+  <a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" width="48" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" /></a>
 </p>
 
 **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" />
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="48" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" />
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" />
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" /></a>
+  <a href="https://cloud.google.com/" title="GCP"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="48" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" /></a>
+  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" /></a>
   <code>CI/CD</code>
 </p>
 
 **Web Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" width="48" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" width="48" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" width="48" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML" width="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS" width="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" /></a>
+  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" width="48" /></a>
   <code>REST APIs</code>
 </p>
 
 **AI/ML Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="ML" alt="ML" width="48" />
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="Deep Learning" alt="Deep Learning" width="48" />
+  <a href="https://www.tensorflow.org/" title="ML"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" title="ML" alt="ML" width="48" /></a>
+  <a href="https://pytorch.org/" title="Deep Learning"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="Deep Learning" alt="Deep Learning" width="48" /></a>
   <code>Agentic AI</code> <code>AI Automation</code> <code>GenAI</code>
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="48" />
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" width="48" /></a>
   <code>Microsoft 365</code>
 </p>
 
